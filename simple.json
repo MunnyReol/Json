@@ -1,0 +1,15 @@
+{
+    "firstName": "Munny",
+    "lastName": "Reol",
+    "gender": "man",
+    "age": 17,
+    "address": {
+        "streetAddress": "India",
+        "city": "Guwahati",
+        "state": "Assam",
+        "postalCode": "00000"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "1234567890" }
+    ]
+}
